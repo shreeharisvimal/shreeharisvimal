@@ -1,11 +1,10 @@
-
-  <h1 align="center">Hi 👋, I'm Shreehari S Vimal</h1>
+ <h1 align="center">Hi 👋, I'm Shreehari S Vimal</h1>
   <h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve my craft.</h3>
   <p align="center">
     <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Banner" />
   </p>
 
-  <div class="section">
+  <div style="margin-bottom: 20px;">
     <h3 align="left">🌐 Connect with me:</h3>
     <p align="left">
       <a href="https://linkedin.com/in/shreehari-s-vimal-835742284" target="blank">
@@ -23,7 +22,7 @@
     </p>
   </div>
 
-  <div class="section">
+  <div style="margin-bottom: 20px;">
     <h3 align="left">🛠️ Languages and Tools:</h3>
     <p align="left">
       <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
@@ -83,11 +82,11 @@
     </p>
   </div>
 
-  <div class="section">
+  <div style="margin-bottom: 20px;">
     <h3 align="left">📊 GitHub Stats:</h3>
-    <div class="github-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreeharisvimal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      <img src="https://github-readme-stats.vercel.app/api?username=shreeharisvimal&show_icons=true&locale=en" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeharisvimal&" alt="GitHub Streak Stats" />
+    <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreeharisvimal&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shreeharisvimal&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeharisvimal&" alt="GitHub Streak Stats" style="max-width: 100%;" />
     </div>
   </div>

@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/fe9f89e5-4662-4775-8f91-69af1c4ceda2)
+[Linked in banner](https://github.com/user-attachments/assets/79a2ab64-3cbb-403e-82b7-26abe56d7491)
 <h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve 
 <h1 align="center">Hi 👋, I'm Shreehari s vimal</h1>
 t.</h3>

@@ -93,8 +93,8 @@
     </div>
     <div style="margin-right: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=shreeharisvimal&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%;" />
-    </div>
-    <div style="margin-right: 10px;">
+<!--     </div> -->
+<!--     <div style="margin-right: 10px;"> -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeharisvimal" alt="GitHub Streak" style="max-width: 100%;" />
     </div>
   </div>

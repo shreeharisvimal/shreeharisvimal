@@ -1,3 +1,5 @@
+
+<img src="https://www.linkedin.com/in/shreehari-s-vimal-835742284/overlay/background-image/" width="100%" />
 <h1 align="center">Hi 👋, I'm Shreehari s vimal</h1>
 <h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve my craft.</h3>
 <p align="center">
@@ -13,7 +15,7 @@
 - ⚡ Fun fact **I'm Pretty funny i would say**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/shreehari-s-vimal-835742284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreehari-s-vimal-835742284" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shreehari-s-vimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shreehari-s-vimal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ssvambalapuzha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ssvambalapuzha" height="30" width="40" /></a>

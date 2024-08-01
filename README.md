@@ -1,6 +1,5 @@
 
-![Uploading Linked in banner.png…]()
-
+![Linked in banner](https://github.com/user-attachments/assets/b780cdfd-2201-4bc4-b487-3de6ec1374af)
 
 <h1 align="center">Hi 👋, I'm Shreehari s vimal</h1>
 <h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve 

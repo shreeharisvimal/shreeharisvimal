@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shreehari S Vimal</h1>
 <h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve my craft.</h3>
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" />
+  <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Banner" />
 </p>
 
 <h3 align="left">🌐 Connect with me:</h3>

@@ -2,7 +2,7 @@
 <h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve my craft.</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Banner" width="130px" />
+  <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Banner" width="330px" />
 </p>
 
 <div style="margin-bottom: 20px;">
@@ -87,6 +87,7 @@
   <h3 align="left">📊 GitHub Stats:</h3>
   <div style="display: flex; align-items: center;flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreeharisvimal&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%;" />
+    <div>&nbsp;</div>
     <img src="https://github-readme-stats.vercel.app/api?username=shreeharisvimal&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeharisvimal&" alt="GitHub Streak Stats" style="max-width: 100%;" />
   </div>

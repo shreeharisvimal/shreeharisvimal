@@ -26,7 +26,7 @@
 <div>&nbsp;</div>
 <div style="margin-bottom: 20px;">
   <h3 align="left">🛠️ Languages and Tools:</h3>
-  <p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap:20px;">
+  <p  style="display: flex; align-items: center; flex-wrap: wrap; gap:20px;">
     <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer" style="margin-right:10px;">
       <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40" />
     </a>

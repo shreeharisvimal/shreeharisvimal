@@ -10,16 +10,16 @@
   <h3 align="left">🌐 Connect with me:</h3>
   <p align="left">
     <a href="https://linkedin.com/in/shreehari-s-vimal-835742284" target="_blank" style="padding-right:10px;">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" style="padding-right:10px;" />
     </a>
     <a href="https://stackoverflow.com/users/24862717/shreehari-s-vimal" target="_blank" style="padding-right:10px;">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="60" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="60" style="padding-right:10px;" />
     </a>
     <a href="https://www.hackerrank.com/ssvambalapuzha" target="_blank" style="margin-right:10px;">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="60" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="60" style="padding-right:10px;" />
     </a>
     <a href="https://www.leetcode.com/shreeharisudhavimal" target="_blank" style="margin-right:10px;">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="60" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="60" style="padding-right:10px;" />
     </a>
   </p>
 </div>

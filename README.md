@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shreehari S Vimal</title>
-  <style>
-    .github-stats {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 20px; /* Space between the items */
-      flex-wrap: wrap;
-    }
-    .github-stats img {
-      max-width: 100%;
-    }
-    .section {
-      margin-bottom: 20px; /* Space between sections */
-    }
-  </style>
-</head>
-<body>
 
   <h1 align="center">Hi 👋, I'm Shreehari S Vimal</h1>
   <h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve my craft.</h3>
@@ -114,6 +91,3 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeharisvimal&" alt="GitHub Streak Stats" />
     </div>
   </div>
-
-</body>
-</html>

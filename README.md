@@ -1,5 +1,5 @@
 
-![Linked in banner](https://github.com/user-attachments/assets/b780cdfd-2201-4bc4-b487-3de6ec1374af)
+![NOT AFRAID TO DO SOMETHING DIFFERENT (3)](https://github.com/user-attachments/assets/f4d296b8-a9a6-488f-b0d7-fbd5d32d3bbd)
 
 <h1 align="center">Hi 👋, I'm Shreehari s vimal</h1>
 <h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve 

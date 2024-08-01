@@ -2,16 +2,17 @@
 <h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve my craft.</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Banner" width="330px" />
+  <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Banner" width="380px" />
 </p>
+<div>&nbsp;</div>
 
 <div style="margin-bottom: 20px;">
   <h3 align="left">🌐 Connect with me:</h3>
   <p align="left">
-    <a href="https://linkedin.com/in/shreehari-s-vimal-835742284" target="_blank" style="margin-right:10px;">
+    <a href="https://linkedin.com/in/shreehari-s-vimal-835742284" target="_blank" style="padding-right:10px;">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
     </a>
-    <a href="https://stackoverflow.com/users/24862717/shreehari-s-vimal" target="_blank" style="margin-right:10px;">
+    <a href="https://stackoverflow.com/users/24862717/shreehari-s-vimal" target="_blank" style="padding-right:10px;">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="60" />
     </a>
     <a href="https://www.hackerrank.com/ssvambalapuzha" target="_blank" style="margin-right:10px;">
@@ -22,7 +23,7 @@
     </a>
   </p>
 </div>
-
+    <div>&nbsp;</div>
 <div style="margin-bottom: 20px;">
   <h3 align="left">🛠️ Languages and Tools:</h3>
   <p align="left">
@@ -82,6 +83,8 @@
     </a>
   </p>
 </div>
+    <div>&nbsp;</div>
+
 
 <div style="margin-bottom: 20px;">
   <h3 align="left">📊 GitHub Stats:</h3>

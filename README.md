@@ -26,7 +26,7 @@
 <div>&nbsp;</div>
 <div style="margin-bottom: 20px;">
   <h3 align="left">🛠️ Languages and Tools:</h3>
-  <p align="left">
+  <p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap:20px;">
     <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer" style="margin-right:10px;">
       <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40" />
     </a>
@@ -90,16 +90,15 @@
   <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <div style="margin-right: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreeharisvimal&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%;" />
+      <p align="left">
+      <img src="https://komarev.com/ghpvc/?username=shreeharisvimal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    </p>
     </div>
     <div style="margin-right: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=shreeharisvimal&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%;" />
-<!--     </div> -->
-<!--     <div style="margin-right: 10px;"> -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeharisvimal" alt="GitHub Streak" style="max-width: 100%;" />
     </div>
   </div>
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shreeharisvimal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+

@@ -1,6 +1,9 @@
-[Linked in banner](https://github.com/user-attachments/assets/79a2ab64-3cbb-403e-82b7-26abe56d7491)
-<h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve 
+
+![Uploading Linked in banner.png…]()
+
+
 <h1 align="center">Hi 👋, I'm Shreehari s vimal</h1>
+<h3 align="center">🚀 I'm a passionate Full Stack Developer specializing in creating dynamic web applications using modern technologies. I thrive on solving complex problems and continuously learning to improve 
 t.</h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Banner" width="380px" />
